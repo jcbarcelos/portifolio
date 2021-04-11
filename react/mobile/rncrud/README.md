@@ -1,9 +1,5 @@
 # Projeto lista de contatos com react Native
 
-[![NPM Version][npm-image]][npm-url]
-
-
-
 <table>
   <tr>
     <td>Home</td>
