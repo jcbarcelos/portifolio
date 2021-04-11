@@ -1,5 +1,8 @@
-#### Projeto lista de contatos com react Native
+# Projeto lista de contatos com react Native
 
+[![NPM Version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Downloads Stats][npm-downloads]][npm-url]
 <table>
   <tr>
     <td>Home</td>
@@ -18,7 +21,7 @@
  </table>
 
 ## Installation
-Após baixa ou fazer clone do projeto, ir na pasta do mesmo roda o comando abaixo.
+> Após baixa ou fazer clone do projeto, ir na pasta do mesmo roda o comando abaixo.
 
 OS X & Linux $ Windows:
 ```sh
