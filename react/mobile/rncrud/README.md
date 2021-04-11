@@ -1,6 +1,6 @@
 # Projeto lista de contatos com react Native
 
-![NPM Version]
+[![NPM Version][npm-image]][npm-url]
 
 
 
@@ -34,3 +34,11 @@ npm install ou yarn install
 ```sh
 react-native run-android ou react-native run-ios
 ```
+
+## Meta
+
+Júlio César –  jcbarcelosrj@gmail.com
+
+Distributed under the XYZ license. See ``LICENSE`` for more information.
+
+[https://github.com/jcbarcelos/portifolio/react/mobile/rncrud](https://github.com/jcbarcelos/)
