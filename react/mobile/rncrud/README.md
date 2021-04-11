@@ -17,3 +17,16 @@
   </tr>
  </table>
 
+## Installation
+Após baixa ou fazer clone do projeto, ir na pasta do mesmo roda o comando abaixo.
+
+OS X & Linux $ Windows:
+```sh
+npm install ou yarn install
+```
+
+## Comando para iniciar o projeto
+
+```sh
+react-native run-android ou react-native run-ios
+```
