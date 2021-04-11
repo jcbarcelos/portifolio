@@ -41,4 +41,4 @@ Júlio César –  jcbarcelosrj@gmail.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
-[https://github.com/jcbarcelos/portifolio/react/mobile/rncrud](https://github.com/jcbarcelos/)
+[https://github.com/jcbarcelos/portifolio/tree/main/react/mobile/rncrud](https://github.com/jcbarcelos/)
