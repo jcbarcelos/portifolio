@@ -1,16 +1,40 @@
-# despesas_pessoas
+# Projeto lista de contatos com react Native
 
-A new Flutter project.
+<table>
+  <tr>
+    <td>Home</td>
+     <td>Tela de cadastro</td>
+     <td>Tela de edição</td>
+     <td>Tela de confirmação de exclusão</td>
+      <td>Tela de após a exclusão</td>
+  </tr>
+  <tr>
+    <!-- <td><img src="./Screenshot_1618164577.png" width=300 height=300></td>
+    <td><img src="./Screenshot_1618164581.png" width=300 height=300></td>
+    <td><img src="./Screenshot_1618164587.png" width=300 height=300></td>
+		<td><img src="./Screenshot_1618164591.png" width=300 height=300></td>
+    <td><img src="./Screenshot_1618164594.png" width=300 height=300></td> -->
+  </tr>
+ </table>
 
-## Getting Started
+## Installation
+> Após baixa ou fazer clone do projeto, ir na pasta do mesmo roda o comando abaixo.
 
-This project is a starting point for a Flutter application.
+OS X & Linux $ Windows:
+```sh
+npm install ou yarn install
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Comando para iniciar o projeto
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```sh
+react-native run-android ou react-native run-ios
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Meta
+
+Júlio César –  jcbarcelosrj@gmail.com
+
+Distributed under the XYZ license. See ``LICENSE`` for more information.
+
+[https://github.com/jcbarcelos/portifolio/tree/main/react/mobile/rncrud](https://github.com/jcbarcelos/)
