@@ -1,0 +1,22 @@
+<mat-toolbar color="primary">
+    <span>{{title}}</span>
+    <span class="example-spacer"></span>
+    <button mat-mini-fab color="secund" class="example-icon favorite-icon" (click)="openDialog()">
+      <mat-icon>add</mat-icon>
+    </button>
+</mat-toolbar>
+<!--
+<mat-grid-list cols="2" rowHeight="100%">
+    <mat-grid-tile>
+        <app-lista (showFiller)="incBy(showFiller)" #show></app-lista>
+    </mat-grid-tile>
+    <mat-grid-tile *ngIf="showFiller">
+        <app-formulario></app-formulario>
+    </mat-grid-tile>
+</mat-grid-list> -->
+
+<div fxLayout="row" fxLayoutAlign="space-around center">
+    <app-lista></app-lista>
+</div>
+
+<!-- <router-outlet></router-outlet> -->

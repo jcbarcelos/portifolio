@@ -1,0 +1,9 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+.snackBar {
+    padding: 20px;
+    background-color: #7b1fa2;
+    color: white;
+}
