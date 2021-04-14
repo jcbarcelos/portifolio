@@ -2,11 +2,10 @@
 
 <table>
   <tr>
-    <td>Home</td>
      <td>Tela de Inicial</td>
      <td>Tela de Novo</td>
      <td>Tela de Editar</td>
-      <td>Tela de após a exclusão</td>
+     <td>Tela de após a exclusão</td>
      <td>Tela de confirmação de exclusão</td>
      
   </tr>
@@ -16,8 +15,6 @@
     <td><img src="./editar.png" width=300 height=300></td>
 		<td><img src="./excluir.png" width=300 height=300></td>
     <td><img src="./confirmacao.png" width=300 height=300></td>
-    
-    
   </tr>
  </table>
 
