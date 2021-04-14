@@ -16,6 +16,7 @@
     <td><img src="./editar.png" width=300 height=300></td>
 		<td><img src="./excluir.png" width=300 height=300></td>
     <td><img src="./confirmacao.png" width=300 height=300></td>
+    
   </tr>
  </table>
 
