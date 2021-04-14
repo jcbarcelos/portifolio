@@ -12,10 +12,10 @@
   </tr>
   <tr>
     <td><img src="./inicio.png" width=300 height=300></td>
-    <td><img src="./novo.png" width=300 height=300></td>
-    <td><img src="./editar.png" width=300 height=300></td>
-		<td><img src="./excluir.png" width=300 height=300></td>
-    <td><img src="./confirmacao.png" width=300 height=300></td>
+    <td><img src="./novo.PNG" width=300 height=300></td>
+    <td><img src="./editar.PNG" width=300 height=300></td>
+		<td><img src="./excluir.PNG" width=300 height=300></td>
+    <td><img src="./confirmacao.PNG" width=300 height=300></td>
     
   </tr>
  </table>
