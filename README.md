@@ -7,10 +7,10 @@ O Fiis vem com objetivo de verificar seus fiis e pegar o valor atual para ver co
   </tr>
   <tr>
     <td> 
-    <a ref="https://github.com/jcbarcelos/portifolio/tree/main/angular/listaContato">Lista de Contatos Angular</a>
+    <a href="https://github.com/jcbarcelos/portifolio/tree/main/angular/listaContato">Lista de Contatos Angular</a>
     </td>
     <td>
-     <a ref="https://github.com/jcbarcelos/portifolio/tree/main/react/mobile">Lista de Contatos  React Native</a>
+     <a href="https://github.com/jcbarcelos/portifolio/tree/main/react/mobile">Lista de Contatos  React Native</a>
      </td>
     </tr>
  </table>
