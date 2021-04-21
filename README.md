@@ -1,18 +1,20 @@
-# Lista de projetos
-
+# Projetos fiis com django, django Rest framework
+O Fiis vem com objetivo de verificar seus fiis e pegar o valor atual para ver como está o saldo
 <table>
   <tr>
-    <td>Home</td>
      <td>Lista de Contatos com Angular 11</td>
      <td>Lista de Contatos com React Native </td>
-     
   </tr>
   <tr>
-    <td>https://github.com/jcbarcelos/portifolio/tree/main/angular/listaContato</td>
-    <td>https://github.com/jcbarcelos/portifolio/tree/main/react/mobile</td>
-   
-  </tr>
+    <td> 
+    <a ref="https://github.com/jcbarcelos/portifolio/tree/main/angular/listaContato">Lista de Contatos Angular</a>
+    </td>
+    <td>
+     <a ref="https://github.com/jcbarcelos/portifolio/tree/main/react/mobile">Lista de Contatos  React Native</a>
+     </td>
+    </tr>
  </table>
+ 
 
 ## Meta
 
