@@ -4,6 +4,7 @@
   <tr>
      <td>Lista de Contatos com Angular 11</td>
      <td>Lista de Contatos com React Native </td>
+     <td>Noticias com React js </td>
   </tr>
   <tr>
     <td> 
@@ -11,6 +12,9 @@
     </td>
     <td>
      <a href="https://github.com/jcbarcelos/portifolio/tree/main/react/mobile">Lista de Contatos  React Native</a>
+     </td>
+    <td>
+     <a href="https://github.com/jcbarcelos/portifolio/tree/main/react/noticias">Noticias com React js</a>
      </td>
     </tr>
  </table>
